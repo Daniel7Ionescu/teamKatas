@@ -16,4 +16,6 @@ public class Main {
         System.out.printf("All narcissistic numbers between %d up to %d :", startFrom, endExclusive);
         System.out.println(getNarcissisticNumsUpTo(startFrom, endExclusive));
     }
+
+
 }
